@@ -1,7 +1,6 @@
 class Simple{
 public static void main(String args[]) throws InterruptedException{
 Thread.sleep(10000);
-System.out.println("Hello Java,This is edited in branch B1 Local repo,
-2nd line added in B1 local");
+System.out.println("Hello Java,This is edited in branch B1 Local repo,2nd line added in B1 local");
 }
 }
